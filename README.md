@@ -1,2 +1,2 @@
-# LPSE
-LPSE (Seia) airfield for Flightgear
+# LPCO
+Coimbra Airfield for flightgear
